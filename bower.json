@@ -1,12 +1,16 @@
 {
-  "name": "nonFusion",
-  "description": "Initial version",
+  "name": "conFusion",
+  "version": "1.0.0",
+  "description": "Website for an awesome restaurant",
   "main": "index.html",
+  "moduleType": [],
   "keywords": [
-    "conFusion"
+    "conFusion",
+    "Fusion",
+    "Restaurant"
   ],
   "authors": [
-    "jinhan"
+    "Jogesh Muppala"
   ],
   "license": "MIT",
   "homepage": "",
@@ -18,7 +22,10 @@
     "tests"
   ],
   "dependencies": {
-    "bootstrap": "^3.3.7",
-    "font-awesome": "^4.7.0"
+    "bootstrap": "~3.3.5",
+    "font-awesome": "~4.4.0",
+    "angular": "~1.4.7",
+    "angular-route": "^1.6.5",
+    "angular-ui-router": "^1.0.5"
   }
 }
